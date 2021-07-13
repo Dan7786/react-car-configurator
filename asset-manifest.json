@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-car-configurator/static/css/main.37f32262.chunk.css",
+    "main.js": "/react-car-configurator/static/js/main.38057062.chunk.js",
+    "main.js.map": "/react-car-configurator/static/js/main.38057062.chunk.js.map",
+    "runtime-main.js": "/react-car-configurator/static/js/runtime-main.e4f4b33a.js",
+    "runtime-main.js.map": "/react-car-configurator/static/js/runtime-main.e4f4b33a.js.map",
+    "static/js/2.9cb8f8c7.chunk.js": "/react-car-configurator/static/js/2.9cb8f8c7.chunk.js",
+    "static/js/2.9cb8f8c7.chunk.js.map": "/react-car-configurator/static/js/2.9cb8f8c7.chunk.js.map",
+    "index.html": "/react-car-configurator/index.html",
+    "static/css/main.37f32262.chunk.css.map": "/react-car-configurator/static/css/main.37f32262.chunk.css.map",
+    "static/js/2.9cb8f8c7.chunk.js.LICENSE.txt": "/react-car-configurator/static/js/2.9cb8f8c7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4f4b33a.js",
+    "static/js/2.9cb8f8c7.chunk.js",
+    "static/css/main.37f32262.chunk.css",
+    "static/js/main.38057062.chunk.js"
+  ]
+}
